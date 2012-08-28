@@ -1,3 +1,10 @@
+# WHOA's ant build script
+
+This build script was forked from the official html5boilerplate build script, mainly so
+that it's easy for us to keep track of our own settings and add patches separately.
+
+Below is the full readme from the official html5boilerplate.
+
 # The h5bp ant build script
 
 The build script is a tool that optimizes your code for production use on the web.
